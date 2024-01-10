@@ -1,0 +1,47 @@
+{
+  "name": "vortex.js",
+  "version": "1.0.0",
+  "description": "A super fast HTML5, 2D game engine with a a robust WebGL renderer, and tons of performance-driven features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Std-Enigma/vortex.git"
+  },
+  "keywords": [
+    "2D",
+    "Game",
+    "Game-Development",
+    "Game-Engine",
+    "Graphics",
+    "Graphics-Programming",
+    "Renderer",
+    "PixiJS",
+    "WebGL",
+    "Canvas",
+    "Framework",
+    "Typescript",
+    "Javascript",
+    "HTML5",
+    "Interactive",
+    "Creative",
+    "Animations",
+    "Multimedia",
+    "Cross-Platform",
+    "Open-Source",
+    "Gaming",
+    "Engine",
+    "Development",
+    "Application",
+    "Web-Apps",
+    "Web-Application"
+  ],
+  "author": "Std-Enigma",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Std-Enigma/vortex/issues"
+  },
+  "homepage": "https://github.com/Std-Enigma/vortex#readme"
+}
